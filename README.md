@@ -89,9 +89,6 @@ A few decisions worth explaining — both for anyone reading this code, and as a
 - Structuring a program's logic (hashing, saving, comparing) separately from its interface (GUI), so each could be tested independently
 - Working with dictionaries to map filenames to hashes, and comparing two dictionaries to detect differences
 - Building a GUI with Tkinter — widgets, layout, and connecting button clicks to functions
-- Using Git and GitHub for real version control, including commit messages that describe *why* a change was made, not just *what*
-
----
 
 ## 🔮 Possible Future Improvements
 
